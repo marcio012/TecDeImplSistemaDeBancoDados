@@ -5,7 +5,7 @@
 
 ### Sistema de Bancos de Dados
 
-![Slide 13](/img/tisbd_aguiar_1spp_2019.2-13.png)
+![Slide 13](img/tisbd_aguiar_1spp_2019.2-13.png)
 
 Um SGDB é uma coleção de arquivos e programas inter-relacionados que permitem ao usuário o acesso para consultas e alterações desse dados. O maior benefício de um banco de dados é proporcionar ao usuário uma visão abstrata desses dados.
 
@@ -25,7 +25,7 @@ Um esquema de banco de dados corresponde às declarações de variáveis ​​(
 
 ### Arquitertura de Três Camadas
 
-![Slide 14](/img/tisbd_aguiar_1spp_2019.2-14.png)
+![Slide 14](img/tisbd_aguiar_1spp_2019.2-14.png)
 
 O objetivo dessa arquitetura e separar as aplicações do usuário do banco de dados fisicos. Nessa arquitetura os esquemas são divididos em três níveis.
 
@@ -104,7 +104,7 @@ Qualquer banco de dados fornecido possui exatamente um esquema interno ou físic
 
 #### Vantagens da arquitetura de três camadas
 
-![Slide 15](/img/tisbd_aguiar_1spp_2019.2-15.png)
+![Slide 15](img/tisbd_aguiar_1spp_2019.2-15.png)
 
 O principal objetivo da arquitetura do banco de dados de três camadas é isolar a visualização de cada usuário do banco de dados da maneira como o banco de dados é fisicamente armazenado ou representado.
 
@@ -122,7 +122,7 @@ As principais vantagens de uma arquitetura de banco de dados de três camadas:
 
 #### Componentes da arquitetura
 
-![Slide 16](/img/tisbd_aguiar_1spp_2019.2-16.png)
+![Slide 16](img/tisbd_aguiar_1spp_2019.2-16.png)
 
 Uma estrutura típica de um SGBD com seus componentes e relacionamentos entre eles. O software DBMS é particionado em vários módulos.
 
